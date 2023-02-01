@@ -11,7 +11,7 @@ Zum starten der Datei:
 In dem Projekt findest du eine abgespeckte Version des Warehouse-Servers.
 Benutze Postman, damit du:
 1. über die route "/warehouses" alle warehouses bekommst
-2. über die route "/warehouses/:houseId eine einzelnes Warehouse anhand der ID bekommst
+2. über die route "/warehouses/:houseId ein einzelnes Warehouse anhand der ID bekommst
 
 
 
