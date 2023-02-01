@@ -1,0 +1,66 @@
+{
+	"info": {
+		"_postman_id": "8bcc1dc2-31b7-48b6-a96c-24b9439d4f12",
+		"name": "Error Exercise 7",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "getAllWarehouses",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/warehouses",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"warehouses"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getWarehouseById",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/warehouses",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"warehouses"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "deleteGoodById",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/warehouses",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"warehouses"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
