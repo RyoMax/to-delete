@@ -28,7 +28,7 @@ Dann finde mal heraus, weshalb nicht ;)
 1. Postman öffnen
 2. oben link auf "file" clicken und dann "import"
 3. jetzt nur noch die `.json` aus dem assets Verzeichnis auswählen und **Upload**!
-4. fertig :)
+4. fertig
 
 
 Viel Spaß! :)
