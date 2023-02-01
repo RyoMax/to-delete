@@ -11,7 +11,7 @@ Zum starten der Datei:
 In der `error_1.js` sind einige Fehler versteckt.
 Finde und behebe alle Bugs.
 Dieses Mal musst du auch Prüfen, ob die Ausgabe im Terminal genau so aussieht, wie sie aussehen soll.
-Nur, weil das Programm nicht abstürzt und einen Fehler generiert, heißt das nicht, dass der Code in Ordnung ist! ;) 
+Nur, weil das Programm nicht abstürzt und somit keinen Fehler generiert, heißt das nicht, dass der Code in Ordnung ist! ;) 
 
 Die erwartete Ausgabe sieht folgendermaßen aus:
 ```
