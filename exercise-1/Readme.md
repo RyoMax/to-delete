@@ -8,7 +8,7 @@ Zum starten der Datei:
 
 ## Aufgabe
 
-In der `error_1.js` sind einige Fehler versteckt.
+In der `error.js` sind einige Fehler versteckt.
 Finde und behebe alle Bugs.
 
 ### Es ist nicht notwendig **neuen** Code hinzuzufügen - der vorhandene Code muss lediglich korrigiert werden
